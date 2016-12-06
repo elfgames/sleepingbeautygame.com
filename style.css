@@ -1,0 +1,96 @@
+html,
+body {
+  font-family: Gibson, "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+  background: black;
+  color: white;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.header {
+  /*min-height: 100vh;*/
+  width: 100%;
+  overflow: hidden;
+  padding-bottom: 30px;
+}
+
+.header .seo {
+  opacity: 0;
+  position: absolute;
+}
+
+.header ul {
+  padding: 0;
+}
+
+
+.header .layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  list-style: none;
+}
+
+.header .main-layer {
+  position: relative;
+  z-index: 100;
+}
+
+
+.stores-list img {
+  padding: 3px;
+  width: 100%;
+  opacity: 0.5;
+  max-width: 200px;
+}
+
+.stores-list img.active {
+  opacity: 1;
+}
+
+.section {
+  padding-top: 100px;
+}
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.story h1 {
+  font-size: 30px;
+}
+
+.story h2 {
+  font-size: 20px;
+}
+
+
+.story p {
+  font-size: 16px;
+}
+
+
+
+/* Call to Action */
+
+.call-to-action {
+  color: #ffffff;
+  background: #000;
+  padding: 50px 0;
+}
+
+.call-to-action .btn {
+  margin: 10px;
+}
