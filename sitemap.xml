@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+  <loc>http://www.sleepingbeautygame.com</loc>
+  <image:image>
+    <image:loc>http://www.sleepingbeautygame.com/img/sleeping-beauty-video-game.jpg</image:loc>
+    <image:title>Sleeping Beauty Video Game Scene</image:title>
+    <image:caption>A scene a prince in the brambles of the cursed forest.</image:caption>
+  </image:image>
+  <changefreq>daily</changefreq>
+  <priority>1</priority>
+</url>
+</urlset>
